@@ -1,6 +1,6 @@
 #Hubchat plugins documentation
 
-Hubchat is a community platform that consists of posts, comments and replies. It comes with different kind of embeddable plugins. All plugins require a community that has been created at hubchat.com. You can create a community at hubchat.com/forum/create.
+Hubchat is a community platform that consists of posts, comments and replies. It comes with different kind of embeddable plugins. All plugins require a community that has been created at hubchat.com. You can create a community at [hubchat.com/forum/create](hubchat.com/forum/create).
 
 - [COMMENTS](#comments)
 - [COMMUNITY](#community)
